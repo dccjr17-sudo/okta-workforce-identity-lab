@@ -1,0 +1,14 @@
+.runtime/
+work/
+.env
+.env.*
+!.env.example
+*.sqlite3
+*.sqlite3-*
+*.db
+*.log
+token.txt
+__pycache__/
+*.pyc
+.venv/
+cloudflared.exe
